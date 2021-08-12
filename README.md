@@ -31,3 +31,7 @@ Si bien el estilo puede ser libre, la historia de usuario debe responder a tres 
 **COMO** `rol` **QUIERO** `algo` **DE MANERA QUE** `beneficio`
 
 Para más información: https://es.wikipedia.org/wiki/Historias_de_usuario
+
+# Links importantes
+
+Link del tablero donde vamos a estar trabajando: https://trello.com/b/BWvegyVE/team-banano
