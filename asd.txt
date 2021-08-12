@@ -35,5 +35,7 @@ Si bien el estilo puede ser libre, la historia de usuario debe responder a tres 
 
 Para más información: <https://es.wikipedia.org/wiki/Historias_de_usuario>
 
+> Links importantes
+
 Link del tablero sobre el cual vamos a estar trabajando:
 <https://trello.com/b/BWvegyVE/team-banano>
