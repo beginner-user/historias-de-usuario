@@ -34,4 +34,4 @@ Para más información: https://es.wikipedia.org/wiki/Historias_de_usuario
 
 # Links importantes
 
-Link del tablero donde vamos a estar trabajando: https://trello.com/b/BWvegyVE/team-banano
+Link del tablero sobre el cual vamos a estar trabajando: https://trello.com/b/BWvegyVE/team-banano
