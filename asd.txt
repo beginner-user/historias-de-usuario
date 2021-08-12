@@ -1,6 +1,7 @@
 > Metodología SCRUM
 
-Es recomendable leerlo en <https://github.com/beginner-user/historias-de-usuario/blob/main/README.md>
+Es recomendable leerlo todo directamente desde:
+<https://github.com/beginner-user/historias-de-usuario/blob/main/README.md>
 
 > ¿En qué consiste?
 
@@ -34,4 +35,5 @@ Si bien el estilo puede ser libre, la historia de usuario debe responder a tres 
 
 Para más información: <https://es.wikipedia.org/wiki/Historias_de_usuario>
 
-Link del tablero sobre el cual vamos a estar trabajando: <https://trello.com/b/BWvegyVE/team-banano>
+Link del tablero sobre el cual vamos a estar trabajando:
+<https://trello.com/b/BWvegyVE/team-banano>
