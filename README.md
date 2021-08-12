@@ -12,4 +12,4 @@ Estas definen lo que se debe construir en el proyecto de software, tienen una pr
 
 Si bien el estilo puede ser libre, la historia de usuario debe responder a tres preguntas: ¿Quién se beneficia?, ¿qué se quiere? y ¿cuál es el beneficio? Por ello, algunos autores recomiendan redactar las historias de usuario según el formato:
 
-COMO ```rol``` QUIERO `algo` DE MANERA QUE `beneficio`
+**COMO** `rol` **QUIERO** `algo` **DE MANERA QUE** `beneficio`
