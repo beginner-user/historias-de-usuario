@@ -14,7 +14,7 @@ El Sprint es el período en el cual se lleva a cabo el trabajo en sí. El tiempo
 
 ## ¿Qué significa Product Backlog?
 
-El Product Backlog es el conjunto de todos los requisitos del proyecto (en este caso serán las ***historias de usuario***), el cual contiene descripciones genéricas de funcionalidades deseables. Representa el qué va a ser construido en su totalidad.
+El Product Backlog es el conjunto de todos los requisitos del proyecto (en este caso serían las ***historias de usuario***), el cual contiene descripciones genéricas de funcionalidades deseables. Representa el qué va a ser construido en su totalidad.
 
 ## ¿Qué es un Sprint Backlog?
 
