@@ -10,7 +10,7 @@ Para más información: https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_softw
 
 ## ¿Qué es un sprint?
 
-El Sprint es el período en el cual se lleva a cabo el trabajo en sí. Al final de cada sprint, el equipo deberá presentar los avances logrados, y el resultado obtenido es un producto que, potencialmente, se puede entregar al cliente. El tiempo mínimo de un Sprint es de dos (2) semanas y el máximo es de cuatro (4) semanas.
+El Sprint es el período en el cual se lleva a cabo el trabajo en sí. El tiempo mínimo de un Sprint es de dos (2) semanas y el máximo es de cuatro (4) semanas.
 
 ## ¿Qué significa Product Backlog?
 
